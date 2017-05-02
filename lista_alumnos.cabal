@@ -9,7 +9,7 @@ build-type:          Simple
 extra-source-files:  README.md
 cabal-version:       >=1.10
 
-executable chat-server
+executable lista-server
   main-is:          Main.hs
 
   other-modules:    Client
