@@ -13,7 +13,6 @@ Para instalar cabal ver en https://www.haskell.org/cabal/download.html o usar su
 ## Instalacion
 
 ```bash
-cd alumnos_lista
 cabal sandbox init
 cabal update
 cabal install --only-dependencies
